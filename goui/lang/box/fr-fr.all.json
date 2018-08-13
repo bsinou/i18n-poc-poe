@@ -1,0 +1,13 @@
+{
+  "Goui.Page.Title": {
+    "other": "Ceci est le titre d'une page en language Go"
+  },
+  "Goui.Page.Added": {
+    "one" : "{{.Count}} nouvel enregistrement a été ajouté dans la base",
+    "other": "{{.Count}} nouveaux enregistrements ont été ajoutés dans la base"
+  },
+  "Goui.Page.Deleted": {
+    "one" : "{{.Name}} a effacé {{.Count}} enregistrement de la base",
+    "other" : "{{.Name}} a effacé {{.Count}} enregistrements de la base"
+  }
+}
