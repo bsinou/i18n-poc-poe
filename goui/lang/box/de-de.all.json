@@ -1,0 +1,13 @@
+{
+    "Goui.Page.Title": {
+        "other": "Hier ist ein Titel für eine Seite in Go Sprache"
+    },
+    "Goui.Page.Added": {
+        "one": "{{.Count}} neue Eintragung ist addiert geworden ",
+        "other": "{{.Count}} neuen Eintragungen sind addiert geworden"
+    },
+    "Goui.Page.Deleted": {
+        "one": "{{.Name}} hat {{.Count}} Eintragung aus dem Repository gelöst.",
+        "other": "{{.Name}} hat {{.Count}} Eintragungen aus dem Repository gelöst."
+    }
+}
